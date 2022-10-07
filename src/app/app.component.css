@@ -1,0 +1,162 @@
+
+/* BUTTONS */
+#redditButton {
+  height: 40px;
+  align-items: center;
+  width: 80px;
+  background-color: #2B2B2B;
+  border: none;
+  outline: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#redditButton:hover {
+  background-color: #3D3D3D;
+  /*box-shadow: 0 0 10px #884ED1;*/
+}
+
+
+#youtubeButton {
+  height: 40px;
+  align-items: center;
+  width: 80px;
+  background-color: #2B2B2B;
+  border: none;
+  outline: none;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+#youtubeButton:hover {
+  background-color: #3D3D3D;
+  /*box-shadow: 0 0 10px #884ED1;*/
+}
+
+
+#twitterButton {
+  height: 40px;
+  align-items: center;
+  width: 80px;
+  background-color: #2B2B2B;
+  border: none;
+  outline: none;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+#twitterButton:hover {
+  background-color: #3D3D3D;
+  /*box-shadow: 0 0 10px #884ED1;*/
+}
+
+
+#chromeButton {
+  height: 40px;
+  align-items: center;
+  width: 80px;
+  background-color: #2B2B2B;
+  border: none;
+  outline: none;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+#chromeButton:hover {
+  background-color: #3D3D3D;
+  /*box-shadow: 0 0 10px #884ED1;*/
+}
+
+
+/* ÜBERSCHRIFT */
+#ueberschrift {
+  color: white;
+  font-family: "Yu Gothic";
+  font-weight: normal;
+  font-size: 23px;
+  margin-right: 25px;
+}
+
+
+/* NZ STUFF */
+nz-content {
+  color: white;
+  background-color: #1C1C1C;
+  min-height: 943px;
+  padding: 20px;
+}
+
+nz-select {
+  width: 480px;
+}
+
+nz-modal {
+  background-color: #2B2B2B;
+}
+
+nz-form-label {
+  color: white !important;
+}
+
+nz-table {
+  /*max-width: 1500px;*/
+}
+
+/* TH LÖSCHEN */
+#thLoeschen {
+  background-color: #2B2B2B;
+  color: white;
+  font-weight: lighter;
+  width: 100px;
+}
+
+
+
+/* MEHR BUTTONS */
+#neuerEintragButton {
+  height: 32px;
+  align-items: center;
+  background-color: #2B2B2B;
+  color: white;
+  border: none;
+  outline: none;
+  margin: 10px 10px 10px 0;
+}
+
+#neuerEintragButton:hover{
+  background-color: #3D3D3D;
+  color: #B078FF;
+  /*box-shadow: 0 0 10px #B078FF;*/
+}
+
+
+#abbrechenButton {
+  color: white;
+}
+
+#abbrechenButton:hover {
+  /*box-shadow: 0 0 10px #B078FF;*/
+  color: #B078FF;
+}
+
+
+#hinzufügenButton {
+  color: white;
+}
+
+#hinzufügenButton:hover {
+  color: #B078FF;
+  /*box-shadow: 0 0 10px #B078FF;*/
+}
+
+
+/* TABLE ROW */
+tr {
+  font-weight: lighter;
+}
+
+
+
+
+
+
